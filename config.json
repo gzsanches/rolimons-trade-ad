@@ -28,9 +28,9 @@
             "BLACKLISTED_ITEM_ID_1",
             "BLACKLISTED_ITEM_ID_2"
         ],
-        "minTotalSend": 30000,
-        "maxTotalSend": 1000000,
-        "minTotalRequestValue": 30000,
+        "minTotalSend": 1000,
+        "maxTotalSend": 200000,
+        "minTotalRequestValue": 1000,
         "maxTotalRequestValue": 1000000000,
         "minUpgPercent": 7,
         "maxUpgPercent": 12,
